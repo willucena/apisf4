@@ -4,7 +4,7 @@
 /.env.local.php
 /.env.*.local
 /public/bundles/
-.docker
+/docker/dbdata
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
